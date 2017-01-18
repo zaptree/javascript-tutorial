@@ -28,3 +28,8 @@ If after running npm test you should see something like this:
 ```
 
 if you get an error it probably means you did not set something up correctly.
+
+### Extra credit
+In WebStorm setup a mocha run configuration to be able to run your unit tests in debug mode and add break points.
+
+This step is not required but is highly recommended to facilitate you with developing.
