@@ -6,7 +6,8 @@ We will be setting up our environment and tutorial project to start developing
 
 ### Environment setup
 - install git
-- install node.js (LTS version, v6.x.x)
+- install node.js (Latest version, v7.x.x)
+- update npm (after installing node) `npm install -g npm`
 - install your favorite IDE such as WebStorm
 
 ### Project setup
