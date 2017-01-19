@@ -8,12 +8,8 @@ module.exports = {
     //THIS METHOD SHOULD USE THE PREVIOUS isEvenlyDivisible METHOD
     isPrime: function(value)
     {
-        for(var i=2; i<value; i++)
-        {
-            if(div.isEvenlyDivisible(value, i))
-                return false;
-        }
 
-        return true;
+        //METHOD BODY HERE
+
     }
 }

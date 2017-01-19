@@ -5,6 +5,8 @@ module.exports = {
     //EX false: 5 / 2 = 2.5 there is .5 remainder in this example
     isEvenlyDivisible: function(dividend, divisor)
     {
-        return dividend % divisor === 0;
+        
+        //METHOD BODY HERE
+
     }
 }
