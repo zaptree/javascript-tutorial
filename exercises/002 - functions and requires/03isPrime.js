@@ -1,4 +1,4 @@
-div = require('../002 - IsEvenlyDivisible/isEvenlyDivisible.js');
+div = require('./01isEvenlyDivisible');
 
 module.exports = {
 

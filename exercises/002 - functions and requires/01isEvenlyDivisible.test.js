@@ -1,5 +1,5 @@
 'use strict';
-let main = require("./isEvenlyDivisible.js");
+let main = require('./01isEvenlyDivisible');
 const assert = require('assert');
 
 describe('0002 - isEvenlyDivisible', ()=>{

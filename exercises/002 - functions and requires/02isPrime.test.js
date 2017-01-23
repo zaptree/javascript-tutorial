@@ -1,5 +1,5 @@
 'use strict';
-let main = require("./isPrime.js");
+let main = require('./02isPrime');
 const assert = require('assert');
 
 describe('0003 - isPrime', ()=>{

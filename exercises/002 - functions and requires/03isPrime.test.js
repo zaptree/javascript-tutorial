@@ -1,5 +1,5 @@
 'use strict';
-let main = require("./isPrime.js");
+let main = require('./03isPrime');
 const assert = require('assert');
 
 describe('0003.1 - isPrime using previous function export', ()=>{
