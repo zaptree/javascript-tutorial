@@ -4,8 +4,13 @@ module.exports = {
     //EX false: 10
     isPrime: function(value)
     {
-        
-        //METHOD BODY HERE
 
+        for(var i = 2; i < value; i++) {
+            if(value % i === 0) {
+                return false;
+            }
+        }
+        return true;
     }
-}
+
+};
