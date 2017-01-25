@@ -9,7 +9,13 @@ module.exports = {
     isPrime: function(value)
     {
 
-        //METHOD BODY HERE
+        for(var i = 2; i < value; i++){
+           if(div.isEvenlyDivisible(value, i)){
+               return false;
+           }
+        }
+        return true;
+
 
     }
 }
