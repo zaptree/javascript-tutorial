@@ -2,9 +2,9 @@
 let main = require('./01isEvenlyDivisible');
 const assert = require('assert');
 
-describe('0002 - isEvenlyDivisible', ()=>{
+describe('002 - functions and requires', ()=>{
     
-    describe('example.js', ()=>{
+    describe('01isEvenlyDivisible.js', ()=>{
 
         it('return value should be true for an input of 4/2', ()=>{
             const result = main.isEvenlyDivisible(4,2);

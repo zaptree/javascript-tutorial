@@ -4,7 +4,10 @@
   "description": "javscript tutorial",
   "main": "index.js",
   "scripts": {
-    "test": "mocha */**/**.test.js"
+    "test": "mocha */**/**.test.js",
+    "test1": "mocha */**/001-example/**.test.js",
+    "test2": "mocha */**/002-functions-and-requires/**.test.js",
+    "test3": "mocha */**/003-asynchronous-coding/**.test.js"
   },
   "repository": {
     "type": "git",

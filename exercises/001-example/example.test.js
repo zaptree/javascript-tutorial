@@ -4,7 +4,7 @@ const execFileSync = require('child_process').execFileSync;
 const assert = require('assert');
 const path = require('path');
 
-describe('0001 - example', ()=>{
+describe('001 - example', ()=>{
     
     describe('example.js', ()=>{
 

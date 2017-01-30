@@ -1,10 +1,10 @@
 'use strict';
-let main = require('./02isPrime');
+let main = require('./03isPrime');
 const assert = require('assert');
 
-describe('0003 - isPrime', ()=>{
+describe('002 - functions and requires', ()=>{
     
-    describe('example.js', ()=>{
+    describe('03isPrime.js', ()=>{
 
         it('return value should be true for an input of 3', ()=>{
             const result = main.isPrime(3);
