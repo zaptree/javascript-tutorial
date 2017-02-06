@@ -163,7 +163,7 @@ for(let prop in myObject){
 }
 ```
 
-@@ Class 3 - Asynchronous programming
+## Class 3 - Asynchronous programming
 
 To get the latest code do the following (make sure to commit any work you have done first)
 
